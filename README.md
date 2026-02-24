@@ -16,7 +16,8 @@ This project performs an Exploratory Data Analysis (EDA) on Twitter data related
 - Source: Wordle Tweets (Kaggle)
 - Format: CSV
 - Contains tweet text, dates, Wordle IDs, number of attempts, and emoji-based guesses  
-- Note: Actual Wordle answers are not included
+- Note: Actual Wordle answers are not included.
+
 
 
 
