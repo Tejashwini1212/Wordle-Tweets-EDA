@@ -39,6 +39,4 @@ Python, pandas, numpy, matplotlib, seaborn, regex
 - Distribution of Number of Attempts
 - Average Guess Accuracy by Guess Number
 
-->How to Run
-```bash
-pip install pandas numpy matplotlib seaborn
+
